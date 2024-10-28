@@ -1,0 +1,29 @@
+/**
+ * @name Nastyca
+ * @author Nastyca
+ * @version 1.1
+ * @description A theme by Nastyca
+ * @source https://github.com/Nastyca
+ */
+
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+
+:root{
+    --background: url('https://i.imgur.com/L1YBUKe.gif');
+    --activetext-colour: white;
+
+    --primary1-colour: rgb(255, 255, 255);
+    --primary2-colour: rgba(141, 141, 141, 0.5);
+    --primary3-colour: rgba(0, 0, 0, 0.6);
+
+    --secondary1-colour: rgba(50,50,50,0.3);
+    --secondary2-colour: rgba(100,100,100,0.5);
+    --secondary3-colour: rgba(0,0,0,0.5);
+
+    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+}
