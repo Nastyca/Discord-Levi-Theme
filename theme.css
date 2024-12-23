@@ -6,8 +6,8 @@
  * @source https://github.com/Nastyca
  */
 
-@import url('https://raw.githubusercontent.com/Nastyca/Discord-Levi-Theme/refs/heads/main/transparency');
-@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+@import url('https://raw.githubusercontent.com/Nastyca/Discord-Levi-Theme/refs/heads/main/transparency.css');
+@import url('https://raw.githubusercontent.com/Nastyca/Discord-Levi-Theme/refs/heads/main/core.css');
 
 :root{
     --background: url('https://i.imgur.com/L1YBUKe.gif');
